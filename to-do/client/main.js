@@ -1,8 +1,4 @@
-// opakování na dny
-// opakování každý měsíc, den, rok
-// 
-// 
-// 
+
 
 class Data{
     constructor(){
